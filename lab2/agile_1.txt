@@ -1,0 +1,20 @@
+Q1: Which Agile principle is easiest to implement using a tool like Taiga?
+Answer: The principle of "Welcoming changing requirements, even late in development" is the easiest to implement. 
+Tools like Taiga provide a dynamic Backlog where new requirements (User Stories) can be added, reprioritized, and assigned to future sprints without disrupting current work.
+
+Q2: Which Agile principle is difficult to represent or enforce using a digital tool?
+Answer: The principle of "Face-to-face conversation" is the most difficult to represent. 
+While tools offer comments and chat, they cannot replace the nuance, immediate feedback, and emotional connection of physical interaction. 
+A tool records the result of communication, but it cannot facilitate the quality of a live discussion.
+
+Q3: How does Taiga support project transparency?
+Answer: Taiga supports transparency by acting as a "Single Source of Truth.
+" It provides real-time visibility through Sprint Taskboards and Burndown Charts, ensuring that every team member and stakeholder can see the project's actual progress, bottlenecks, and "blocked" tasks at any time.
+
+Q4: Can Agile values exist without digital tools? Justify your answer.
+Answer: Yes. Agile is a mindset and a philosophy, not a software suite. 
+Many early Agile teams successfully used physical tools like whiteboards and sticky notes. Because Agile values prioritize "Individuals and Interactions" over tools, the effectiveness of the team depends on their collaboration and adaptability, not the software they use.
+
+Q5: What is the primary difference between a "Practice" and a "Mindset" in Agile?
+Answer: An Agile Practice refers to the specific actions or tools used (e.g., Daily Standups, using Taiga), whereas an Agile Mindset is the underlying belief system (e.g., valuing customer collaboration and responding to change). 
+Without the mindset, a team is simply "doing" the steps without achieving true agility.
