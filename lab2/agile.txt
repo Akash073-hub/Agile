@@ -1,0 +1,84 @@
+Agile Manifesto Value
+Write one example where a traditional software
+development approach does not support this
+value.
+Write one example showing how Agile addresses
+this limitation.
+For each value:
+Individuals and interactions over processes
+and tools
+Traditional limitation:
+A company follows strict processes where all
+communication must go through formal documents
+and emails. Team members rarely talk directly.
+Even small decisions need manager approval. This
+slows problem-solving and reduces teamwork.
+Agile approach:
+Agile teams use daily stand-ups and direct
+conversations. Developers, testers, and designers
+talk openly to solve issues quickly. Collaboration is
+encouraged over rigid procedures.
+Working software over comprehensive
+documentation
+Traditional limitation:
+A team spends months writing detailed documentation
+before coding starts. By the time software is built,
+requirements may have changed, and the product may not
+meet user needs.
+Agile approach:
+Agile teams build small working features in short sprints.
+They show real software frequently to stakeholders.
+Documentation exists, but working software is the priority.
+Customer collaboration over contract
+negotiation
+Traditional limitation:
+Once a contract is signed, changes are discouraged. If the
+customer wants modifications, it requires renegotiation,
+delays, and extra costs. The product may not fully satisfy the
+customer.
+Agile approach:
+Customers are involved throughout development. They give
+feedback every sprint. Changes are welcomed if they improve
+the product, leading to higher satisfaction.
+Responding to change over following a plan
+Traditional limitation:
+A project follows a fixed plan created at the start. Even if
+market needs change, the team sticks to the original plan
+to avoid delays. The final product may become outdated.
+Agile approach:
+Agile teams expect change. They adjust priorities each
+sprint. This flexibility helps them deliver a product that
+matches current needs.
+Study Agile Principles
+1. For each selected principle:
+• Write one practical implication (how it
+affects daily project work).
+Study at least six Agile principles, such as:
+• Early and continuous delivery
+➔ Team works on small features daily so
+something usable is always close to
+release.
+• Welcoming changing requirements
+➔ Developers regularly adjust tasks
+based on new feedback instead of
+sticking rigidly to old
+requirements.
+. Frequent delivery of working software
+➔ Work is broken into small pieces
+completed in short sprints (1–2
+weeks).
+.Collaboration between business and
+developers
+➔ Developers talk with stakeholders or
+product owners often to clarify needs
+before building.
+• Working software as a measure of
+progress
+➔ Daily focus is on completing
+usable features, not just writing
+reports or plans.
+• Continuous improvement through
+reflection
+➔ Team holds regular
+retrospectives and makes small
+daily improvements in workflow.
